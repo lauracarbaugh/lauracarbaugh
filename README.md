@@ -1,10 +1,5 @@
 # About me
 
-
-**lauracarbaugh/lauracarbaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on data scraping in R
 - 🌱 I’m currently learning python basics
 - 💬 Ask me about my favorite movies
